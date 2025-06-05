@@ -2,6 +2,8 @@
 -repository
 -branch
 -conflict
+-local
+-remote
 # commands
 -git init
 -git add
@@ -13,3 +15,4 @@
 -git branch
 -git checkout -b {branch name}
 -git merge {branch name}
+-git push
