@@ -1,6 +1,7 @@
 # terms
 -repository
 -branch
+-conflict
 # commands
 -git init
 -git add
